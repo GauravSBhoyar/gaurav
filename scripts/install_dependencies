@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo apt-get install nodejs
+cd /home/ec2-user/flexapi
+npm install
